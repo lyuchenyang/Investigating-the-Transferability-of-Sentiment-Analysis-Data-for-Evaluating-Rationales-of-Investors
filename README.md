@@ -1,0 +1,1 @@
+# Investigating-the-Transferability-of-Sentiment-Analysis-Data-for-Evaluating-Rationales-of-Investors
